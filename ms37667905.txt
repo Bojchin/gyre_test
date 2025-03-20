@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "gyre.ca",
+  "Id": "a3e6a16a-0ea6-4561-87d4-8cda2018002c"
+}
